@@ -37,10 +37,4 @@ Planilhas:
 
 ![](https://imgur.com/OkfCfgJ.png)
 
-![](https://imgur.com/q7Fuvvz.png)Planilhas:
-
-![](https://imgur.com/IzNAhsX.png)
-
-![](https://imgur.com/OkfCfgJ.png)
-
 ![](https://imgur.com/q7Fuvvz.png)
