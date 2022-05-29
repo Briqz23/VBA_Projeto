@@ -2,7 +2,7 @@
 
 Foram realizados dois projetos principais de VBA, ambos com propostas variadas. O primeiro projeto é mais descontraído, para uso pessoal. O segundo é muito mais voltado ao uso empresarial, além de ser mais completo.
 
-## Projeto 01:
+## Projeto 01
 
 • Manipulação de cores com condicionais 
 
@@ -18,7 +18,7 @@ Planilhas:
 ![](https://imgur.com/c2Dyf4b.png)
 
 
-## Projeto 02:
+## Projeto 02
 
 • Formulário
 
