@@ -1,6 +1,6 @@
 ## Projeto VBA
 
-Foi realizado dois projetos principais de VBA, ambos com propostas variadas. O primeiro projeto foi mais descontraído. O segundo é muito mais voltado ao uso empresarial, além de ser mais completo.
+Foram realizados dois projetos principais de VBA, ambos com propostas variadas. O primeiro projeto é mais descontraído, para uso pessoal. O segundo é muito mais voltado ao uso empresarial, além de ser mais completo.
 
 ## Projeto 01:
 
